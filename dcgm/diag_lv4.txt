@@ -1,0 +1,33 @@
+Successfully ran diagnostic for group.
++---------------------------+------------------------------------------------+
+| Diagnostic                | Result                                         |
++===========================+================================================+
+|-----  Metadata  ----------+------------------------------------------------|
+| DCGM Version              | 4.2.3                                          |
+| Driver Version Detected   | 575.57.08                                      |
+| GPU Device IDs Detected   | 25ac                                           |
+|-----  Deployment  --------+------------------------------------------------|
+| software                  | Pass                                           |
+|                           | GPU0: Pass                                     |
++-----  Hardware  ----------+------------------------------------------------+
+| memory                    | Skip                                           |
+|                           | GPU0: Skip                                     |
+| diagnostic                | Skip                                           |
+|                           | GPU0: Skip                                     |
+| nvbandwidth               | Skip                                           |
+|                           | GPU0: Skip                                     |
+| pulse_test                | Skip                                           |
+|                           | GPU0: Skip                                     |
++-----  Integration  -------+------------------------------------------------+
+| pcie                      | Skip                                           |
+|                           | GPU0: Skip                                     |
++-----  Stress  ------------+------------------------------------------------+
+| memtest                   | Pass                                           |
+|                           | GPU0: Pass                                     |
+| memory_bandwidth          | Skip                                           |
+|                           | GPU0: Skip                                     |
+| targeted_stress           | Skip                                           |
+|                           | GPU0: Skip                                     |
+| targeted_power            | Skip                                           |
+|                           | GPU0: Skip                                     |
++---------------------------+------------------------------------------------+
