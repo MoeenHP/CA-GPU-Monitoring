@@ -58,9 +58,6 @@ The backend server should now be running on `http://localhost:8000` (or a port d
 
 Visit the web interface to see all connected machines and their current GPU usage. You can customize or extend the tool to push data from multiple systems to a centralized frontend.
 
-## Screenshots
-
-> (Add screenshots or GIFs here to demonstrate UI or terminal output)
 
 ## Contributing
 
